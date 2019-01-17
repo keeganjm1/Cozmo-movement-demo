@@ -30,5 +30,5 @@ This is a demo for Cozmo movement, speech, and animations.  Read through the sam
             2.	Cozmo moves in a circle of radius r clockwise k times, and then performs an animation
             3.	Cozmo moves in a circle of radius r counter-clockwise once, and then performs an animation
             4.	Cozmo moves in a circle of radius r counter-clockwise k times, and then performs a behavior
-
+## Alex, Tanner, Keegan, Laurens
 
