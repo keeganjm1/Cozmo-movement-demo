@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Cozmo-Movement-Demo
 This is a demo for Cozmo movement, speech, and animations.  Read through the sample code for examples of how to get Cozmo to move forward, speak, turn, and perform an animation.  Once you understand the code, think about how to accomplish the various challenges.  In class on Thursday, you will break up into groups, and either fork this repository (and name your fork based on the variation you are working on) or create a new repository and include information on your challenge.  These variations are designed to demonstrate ways to control Cozmo's movement, and may be useful in projects.
 
@@ -30,7 +30,5 @@ This is a demo for Cozmo movement, speech, and animations.  Read through the sam
             2.	Cozmo moves in a circle of radius r clockwise k times, and then performs an animation
             3.	Cozmo moves in a circle of radius r counter-clockwise once, and then performs an animation
             4.	Cozmo moves in a circle of radius r counter-clockwise k times, and then performs a behavior
-=======
-# Cozmo-movement-demo
-Demo for cozmo movement
->>>>>>> Initial commit
+
+
